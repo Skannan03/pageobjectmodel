@@ -2,6 +2,8 @@ Hello There !!!!!
 
 In this project i have worked on the Automation and testing of the Orange Hrm Website , In this website i have tested the Buzz feature and working of the buzz .
 
+All the testcases are present in the Excel 
+
 In the buzz we can actually 
 - post text , images , videos or combination of both
 - like the post
