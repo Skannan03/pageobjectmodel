@@ -12,9 +12,17 @@ In the buzz we can actually
   
 I have tested all the possible features in the buzz page.
 
-Problems that I faced during the project...
-- Code repetetion -
-- 
+Key Learnings........
+
+- Design Patterns & Repository Pattern: Learned to structure code using design principles for better maintainability.
+- Code Optimization: Initially wrote repetitive code but later optimized it to be more concise and efficient.
+- Code Alignment & Structure: Organized code by creating packages for each webpage, improving readability and maintainability.
+  
+Challenges & Solutions.......
+
+- Code Optimization: Faced issues with repetitive code, leading to a deeper understanding of refactoring techniques for efficiency.
+- Function Utilization: Created user-defined functions and added them to the base class to minimize redundancy.
+- Handling Multiple Tabs in Testing: Encountered issues with tab switching due to incorrect index references. Resolved this by ensuring proper tab management, including closing unnecessary tabs.
 
 
 
