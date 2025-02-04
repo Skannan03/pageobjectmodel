@@ -9,7 +9,7 @@ In the buzz we can actually
 - edit the post
 - delete the post
 - and much moreee
-- 
+  
 I have tested all the possible features in the buzz page.
 
 Problems that I faced during the project...
